@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_c85cf9845a065c12cf4752cf44d44530c2cf5319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_1aec7478966193ef3862078c1fe0d8f85272cc28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_7a90a981a466b5f71a5e2a339ffb4f4963b8ac14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_b91e60d332caa7c3126bb0874531e3bed9911bb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_54f55f5e84ea7b317dc082b5a6d26fb28514d8e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_ea21ca29fe734cad892d6df7d4e3125b883d19fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_2b12c37bc6a32c0c82ea202628915eaa8c473d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6c505644e65308a258cdced9db2939112f088bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_3722a14afe1ad9f55f2bce909a5fc2f12c905d79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_755856e64d7b1c64b3c4fffa95dbd154dce4853b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_bd6bcdfeaf082f09c1bf9dc1693b1798f5c655b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_09a7f58163f2f22c7200890b98d8ed403c5b517c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_c09a5ad0eee04059f0f2f870835118e9fc0a3919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_327b64cce891865b46a1e7550ce48076e0b82796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_346571b8565c288cd1e5636e010d48181ac4126c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2bf60b566ea730fd1a5dee2b4c62bba353d06d3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_85c466dd692889e4e65b19b3a7ed0902f05a2cd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Kev/AndroidStudioProjects/AndroidSamples/BottomNavViewTest/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c1ed8d989c504c40715bd75d97b80d6b01a4503a.jar" />
+    </item>
+
+</items>

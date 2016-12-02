@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavViewTest</string>
+    <string name="menu_item_one">One</string>
+    <string name="menu_item_two">Two</string>
+    <string name="menu_item_three">Three</string>
+    <string name="menu_item_four">Four</string>
+    <string name="menu_item_five">Five</string>
+</resources>

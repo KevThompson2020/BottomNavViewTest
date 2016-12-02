@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_one"
+        android:icon="@drawable/ic_badge"
+        android:title="@string/menu_item_one"/>
+    <item
+        android:id="@+id/action_two"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="@string/menu_item_two"/>
+    <item
+        android:id="@+id/action_three"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="@string/menu_item_three"/>
+    <item
+        android:id="@+id/action_four"
+        android:icon="@android:drawable/ic_popup_reminder"
+        app:showAsAction="ifRoom"
+        android:title="@string/menu_item_four"/>
+    <item
+        android:id="@+id/action_five"
+        android:icon="@android:drawable/ic_delete"
+        app:showAsAction="ifRoom"
+        android:title="@string/menu_item_five"/>
+
+</menu>

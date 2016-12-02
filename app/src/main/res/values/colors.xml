@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkGrey"> #616a6b </color>
+    <color name="bottom_navigation_icon_colors"> #ff8449  </color>
+    <color name="bottom_navigation_text_colors"> #1eff49  </color>
+
+    <!--STYLE GUIDE COLOURS.-->
+    <color name="three_white">#FFFFFF</color>
+    <color name="three_app_grey_light">#FAFAFA</color>
+    <color name="three_app_grey_dark">#EBEBEB</color>
+    <color name="three_ken">#EC0044</color>
+    <color name="three_hucknall">#DC350E</color>
+    <color name="three_barbie">#E90066</color>
+    <color name="three_prince">#82368C</color>
+    <color name="three_maggie">#007BC3</color>
+    <color name="three_kermit">#00857B</color>
+    <color name="three_hulk">#00864E</color>
+    <color name="three_clooney">#767676</color>
+    <color name="three_vadar">#000000</color>
+    <color name="three_longacre">#F5E85A</color>
+
+
+
+</resources>
